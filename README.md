@@ -13,9 +13,16 @@ Heute habe ich ein Backend für mein Godot-Spiel implementiert, damit die Coins 
 
 ## 27.2.2026 
 
- - [ ] Enemy hinzufügen
- - [ ]  Ein Score hinzufügen
- - [ ]   Audio hinzufügen
- - [ ]   Mehr Animationen hinzufügen für den PLayer. (Links, rechts)
+ - [x] Enemy hinzufügen
+ - [x] Ein Score hinzufügen
+ - [x] Audio hinzufügen
+ - [x] Mehr Animationen hinzufügen für den PLayer. (Links, rechts)
 
- 
+Heute habe ich einen Enemy hinzugefügt, der sich zwischen zwei Wänden bewegt. Ich habe noch verschiedene Animationen hinzugefügt, wie links und rechts gehen, und eine neue Todesanimation. Ich habe das Spiel eigentlich fertig, ich muss nur noch ein bisschen weiterbauen und ein Ziel machen. Danach kann ich den Timer speichern und ein Leaderboard erstellen.
+
+ ## 6.03.2026
+
+ - [ ] Die Map erweitern
+ - [ ] Zeil erstellen.
+ - [ ] Timer machen denn man sieht
+ - [ ] Die Zeit wird gepseichert. 
