@@ -23,6 +23,6 @@ Heute habe ich einen Enemy hinzugefügt, der sich zwischen zwei Wänden bewegt. 
  ## 6.03.2026
 
  - [ ] Die Map erweitern
- - [ ] Zeil erstellen.
+ - [ ] Ziel erstellen.
  - [ ] Timer machen denn man sieht
  - [ ] Die Zeit wird gepseichert. 
