@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cd226jqwc1yg4"]
+
+[ext_resource type="Script" uid="uid://vkejynikqen0" path="res://scenes/winzoe.gd" id="1_4a8hh"]
+
+[node name="Winzoe" type="Area2D"]
+collision_mask = 2
+script = ExtResource("1_4a8hh")
