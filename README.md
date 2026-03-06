@@ -22,7 +22,18 @@ Heute habe ich einen Enemy hinzugefügt, der sich zwischen zwei Wänden bewegt. 
 
  ## 6.03.2026
 
- - [ ] Die Map erweitern
- - [ ] Ziel erstellen.
+ - [X] Die Map erweitern
+ - [X] Ziel erstellen.
  - [ ] Timer machen denn man sieht
- - [ ] Die Zeit wird gepseichert. 
+ - [ ] Die Zeit wird gepseichert.
+
+Also ich habe die Map erweitert und ein Ziel erstellt. Jedoch bin ich mir nicht sicher, warum es nicht funktioniert. Eigentlich sollte es funktionieren, aber im Moment funktioniert es noch nicht. Ich habe auch noch eine andere Idee: Ich möchte einen Startbildschirm machen. Dort soll man den Top-Scorer und den Namen sehen. Man kann dort seinen eigenen Namen eingeben und dann eine Runde starten. Während der Runde wird die Zeit gestoppt. So sollte dann etwa das Endprodukt aussehen, und das wird später alles gespeichert.
+
+
+## 13.03.2026
+
+- [ ] Ziel debuggen
+- [ ] Timmer erstellen
+- [ ] Speichern von der Zeit
+- [ ] Zeit wird in Reihen folge gemacht
+
