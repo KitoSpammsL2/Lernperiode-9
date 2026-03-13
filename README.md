@@ -32,8 +32,17 @@ Also ich habe die Map erweitert und ein Ziel erstellt. Jedoch bin ich mir nicht 
 
 ## 13.03.2026
 
-- [ ] Ziel debuggen
-- [ ] Timmer erstellen
-- [ ] Speichern von der Zeit
+- [x] Ziel debuggen
+- [x] Timmer erstellen
+- [x] Speichern von der Zeit
 - [ ] Zeit wird in Reihen folge gemacht
 
+Ich bin sehr zufrieden mit dem, was ich geschafft habe. Ich habe mein Ziel erreicht und konnte den Fehler erfolgreich debuggen. Außerdem habe ich einen Timer erstellt, der jetzt oben links angezeigt wird. Die Zeit wird auch im SQL Server gespeichert. Ich muss noch hinzufügen, dass die Zeit sortiert wird, aber ich glaube, das wird kein großes Problem sein.
+
+
+## 20.03.2026
+
+- [ ] Zeit wird sortiert
+- [ ] Es zeift die top 3 an
+- [ ] ein Start Knopf machen
+- [ ] Namen eingeben beim Start
