@@ -42,7 +42,16 @@ Ich bin sehr zufrieden mit dem, was ich geschafft habe. Ich habe mein Ziel errei
 
 ## 20.03.2026
 
-- [ ] Zeit wird sortiert
-- [ ] Es zeift die top 3 an
+- [x] Zeit wird sortiert
+- [x] Es zeift die top 3 an
+
+
+<img width="1191" height="745" alt="image" src="https://github.com/user-attachments/assets/dea7d8ab-e74c-4aa4-beea-7145417e02f8" />
+
+Das Programm speichert die Zeit, und man kann die drei besten Zeiten sehen. Es hat viel länger gedauert als erwartet, da ich die Datei Program.cs erweitern musste. Außerdem möchte ich noch einen Restart-Button und einen Start-Button hinzufügen.
+
 - [ ] ein Start Knopf machen
+- [ ] Restart. 
 - [ ] Namen eingeben beim Start
+
+
