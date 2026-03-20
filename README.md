@@ -50,6 +50,9 @@ Ich bin sehr zufrieden mit dem, was ich geschafft habe. Ich habe mein Ziel errei
 
 Das Programm speichert die Zeit, und man kann die drei besten Zeiten sehen. Es hat viel länger gedauert als erwartet, da ich die Datei Program.cs erweitern musste. Außerdem möchte ich noch einen Restart-Button und einen Start-Button hinzufügen.
 
+
+## 27.03.2026
+
 - [ ] ein Start Knopf machen
 - [ ] Restart. 
 - [ ] Namen eingeben beim Start
