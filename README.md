@@ -53,8 +53,8 @@ Das Programm speichert die Zeit, und man kann die drei besten Zeiten sehen. Es h
 
 ## 27.03.2026
 
-- [ ] ein Start Knopf machen
-- [ ] Restart. 
+- [x] ein Start Knopf machen
+- [x] Restart. 
 - [ ] Namen eingeben beim Start
 
 
